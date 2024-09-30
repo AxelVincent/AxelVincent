@@ -5,6 +5,9 @@ Here is some projects I've built recently to have fun
   _Playlist maker using the spotify recommendation algorithm (made with Express/React/Railway)_
 - [Baby Shower Club](https://www.babyshower.club/)  
   _Affiliation marketing website on baby products (made with Webflow and automated using Figma for Webflow)_
+
+Currently working on a lead generation tool, see you end of October for the release ✌️
+
 <!--
 **AxelVincent/AxelVincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
