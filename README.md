@@ -9,6 +9,7 @@ Here is some projects I've built recently for fun
 Currently working on a lead generation tool, see you end of October for the release ✌️
 
 **Professionally** you can check my LinkedIn, which is less fun, but it's 6+ years of professional NodeJS  
+Previously worked at the early stage of 1 rideshare startup acquired by **FreeNow** **(BMW)**, 1 payment startup doing corporate benefits through payment that's now a unicorn: **Swile**, and one micro finance app that's still growing: **Shares**.
 https://www.linkedin.com/in/axel-vincent/ 
 
 <!--
