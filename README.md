@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is some projects I've built recently to have fun 
+Here is some projects I've built recently for fun 
 - [Zikos](https://zikos.io/)  
   _Playlist maker using the spotify recommendation algorithm (made with Express/React/Railway)_
 - [Baby Shower Club](https://www.babyshower.club/)  
