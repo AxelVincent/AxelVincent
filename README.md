@@ -8,6 +8,9 @@ Here is some projects I've built recently to have fun
 
 Currently working on a lead generation tool, see you end of October for the release ✌️
 
+**Professionally** you can check my LinkedIn, which is less fun, but it's 6+ years of professional NodeJS  
+https://www.linkedin.com/in/axel-vincent/ 
+
 <!--
 **AxelVincent/AxelVincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
