@@ -2,9 +2,9 @@
 
 Here is some projects I've built recently for fun 
 - [Zikos](https://zikos.io/)  
-  _Playlist maker using the spotify recommendation algorithm (made with Express/React/Railway)_
+  _Playlist maker using the Spotify recommendation algorithm (made with Express/React/Railway)_
 - [Baby Shower Club](https://www.babyshower.club/)  
-  _Affiliation marketing website on baby products (made with Webflow and automated using Figma for Webflow)_
+  _Affiliation marketing website on baby products to learn SEO from zero (made with Webflow and automated using Figma for Webflow)_
 
 Currently working on a lead generation tool, see you end of October for the release ✌️
 
