@@ -8,8 +8,7 @@ Here is some projects I've built recently for fun
 
 Currently working on a lead generation tool, see you end of October for the release ✌️
 
-**Professionally** you can check my LinkedIn, it's 6+ years of professional NodeJS. I've previously worked at the early stage of 1 rideshare startup acquired by **FreeNow** **(BMW)**, 1 payment startup doing corporate benefits through payment that's now a unicorn: **Swile**, and one micro finance app that's still growing: **Shares**.  
-https://www.linkedin.com/in/axel-vincent/ 
+**Professionally** you can check my [LinkedIn](https://www.linkedin.com/in/axel-vincent/ ), it's 6+ years of professional NodeJS. I've previously worked at the early stage of 1 rideshare startup acquired by **FreeNow** **(BMW)**, 1 payment startup doing corporate benefits through payment that's now a unicorn: **Swile**, and one micro finance app that's still growing: **Shares**.  
 
 <!--
 **AxelVincent/AxelVincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
