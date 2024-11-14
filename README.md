@@ -6,7 +6,7 @@ Here is some projects I've built recently for fun
 - [Baby Shower Club](https://www.babyshower.club/)  
   _Affiliation marketing website on baby products to learn SEO from zero (made with Webflow and automated using Figma for Webflow)_
 
-Currently working on a lead generation tool using Google API and a handmade scraping algorithm with some AI, see you end of October for the release ✌️
+Currently working on a geo sales tool, see you end of October for the release ✌️
 
 **Professionally** you can check my [LinkedIn](https://www.linkedin.com/in/axel-vincent/ ), it's 6+ years of professional NodeJS. I've previously worked at the early stage of 1 rideshare startup acquired by **FreeNow** **(BMW)**, 1 payment startup doing corporate benefits through payment that's now a unicorn: **[Swile](https://www.swile.co/)**, and one micro finance app that's still growing: **[Shares](https://www.shares.io/)**.  
 
