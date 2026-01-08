@@ -29,7 +29,3 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AxelVincent&theme=github_dark" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AxelVincent&theme=github_dark" />
   </p>
-
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=AxelVincent&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-  </p>
