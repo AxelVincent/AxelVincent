@@ -1,24 +1,35 @@
 ### Hi there 👋
 
-Here is some projects I've built
-- [Ritchy 🐕](https://www.ritchy.io/)  
-  _The local business prospecting platform_
-- [Zikos](https://zikos.io/)  
-  _Playlist maker using the Spotify recommendation algorithm (made with Express/React/Railway)_
+  ## Projects I've Built
 
-**Professionally** you can check my [LinkedIn](https://www.linkedin.com/in/axel-vincent/ ), it's 7+ years of professional NodeJS. I've previously worked at the early stage of 1 rideshare startup acquired by **FreeNow** **(BMW)**, 1 payment startup doing corporate benefits through payment that's now a unicorn: **[Swile](https://www.swile.co/)**, and one micro finance app that's still growing: **[Shares](https://www.shares.io/)**.  
+  - [Ritchy 🐕](https://www.ritchy.io/) — _The local business prospecting platform_
+  - [Zikos](https://zikos.io/) — _Playlist maker using the Spotify recommendation algorithm_
 
-<!--
-**AxelVincent/AxelVincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## About Me
 
-Here are some ideas to get you started:
+  7+ years of professional Node.js. Previously worked at:
+  - **FreeNow (BMW)** — Early stage rideshare startup (acquired)
+  - **[Swile](https://www.swile.co/)** — Corporate benefits unicorn
+  - **[Shares](https://www.shares.io/)** — Micro finance app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [LinkedIn](https://www.linkedin.com/in/axel-vincent/)
+
+  ## GitHub Stats
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AxelVincent&theme=github_dark" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AxelVincent&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AxelVincent&theme=github_dark&utcOffset=1" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AxelVincent&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AxelVincent&theme=github_dark" />
+  </p>
+
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=AxelVincent&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  </p>
