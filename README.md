@@ -2,6 +2,7 @@
 
   ## Projects I've Built
 
+  - [Alerte Création](https://alertecreation.fr/) - _Create company creation alerts in France_
   - [Ritchy 🐕](https://www.ritchy.io/) — _The local business prospecting platform_
   - [Zikos](https://zikos.io/) — _Playlist maker using the Spotify recommendation algorithm_
 
