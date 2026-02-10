@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 ## What I've Built
-
-- [Alerte Création](https://alertecreation.fr/) — (Experiment) Shipped a fully running SaaS in 3 days using only Claude Code workflows, with full engineering best practices (CI/CD, testing, monitoring).
-- [Ritchy 🐕](https://www.ritchy.io/) — Solo-built a B2B prospecting platform with AI agents that autonomously scrape, analyse, and enrich local business leads using governmental registries across 8 countries. Shut down after hitting <20k ARR — the engineering effort required to maintain cross-country data pipelines didn't justify the market fit.
-- [Zikos](https://zikos.io/) — (Experiment) Built a playlist generator that reverse-engineers the Spotify recommendation algorithm to surface tracks you'd actually listen to.
+- [Recursive](https://recursive.pm/) - (Building) Product Context Graph from features, documentation, customers, code, revenue, and feedback from all your tools. Augment productivity for product managers.  
+- [Alerte Création](https://alertecreation.fr/) — (Experiment) Shipped a fully running SaaS in 3 days using only Claude Code workflows, with full engineering best practices (CI/CD, testing, monitoring).  
+- [Ritchy 🐕](https://www.ritchy.io/) — Solo-built a B2B prospecting platform with AI agents that autonomously scrape, analyse, and enrich local business leads using governmental registries across 8 countries. Shut down after hitting <20k ARR — the engineering effort required to maintain cross-country data pipelines didn't justify the market fit.  
+- [Zikos](https://zikos.io/) — (Experiment) Built a playlist generator that reverse-engineers the Spotify recommendation algorithm to surface tracks you'd actually listen to.  
 
 ## About Me
 
