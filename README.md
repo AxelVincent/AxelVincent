@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[LinkedIn](https://www.linkedin.com/in/axel-vincent/)
+[X](https://x.com/jacques_selair)
+
 ## What I've Built
 - [Recursive](https://recursive.pm/) - (Building) Product Context Graph from features, documentation, customers, code, revenue, and feedback from all your tools. Augment productivity for product managers.  
 - [Alerte Création](https://alertecreation.fr/) — (Experiment) Shipped a fully running SaaS in 3 days using only Claude Code workflows, with full engineering best practices (CI/CD, testing, monitoring).  
@@ -14,4 +17,4 @@
 - **[Swile](https://www.swile.co/)** — Corporate benefits unicorn
 - **[Shares](https://www.shares.io/)** — Micro finance app
 
-[LinkedIn](https://www.linkedin.com/in/axel-vincent/)
+
