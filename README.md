@@ -1,7 +1,6 @@
 ### Hi there 👋
-
+[X](https://x.com/jacques_selair)  
 [LinkedIn](https://www.linkedin.com/in/axel-vincent/)
-[X](https://x.com/jacques_selair)
 
 ## What I've Built
 - [Recursive](https://recursive.pm/) - (Building) Product Context Graph from features, documentation, customers, code, revenue, and feedback from all your tools. Augment productivity for product managers.  
