@@ -10,7 +10,7 @@
 
 ## About Me
 
-7+ years of professional Node.js. Previously worked at:
+8+ years of professional Node.js. Previously worked at:
 
 - **FreeNow (BMW)** — Early stage rideshare startup (acquired)
 - **[Swile](https://www.swile.co/)** — Corporate benefits unicorn
