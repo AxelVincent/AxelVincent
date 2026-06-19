@@ -5,7 +5,7 @@
 ## What I've Built
 - [Wirescale](https://wirescale.co/) - The operating system for Meta Ads agencies  
 - [Maainstream](https://maainstream.com/) - Context based chat learning platform
-- [Recursive](https://recursive.pm/) - (Building) Product Context Graph from features, documentation, customers, code, revenue, and feedback from all your tools. Augment productivity for product managers.  
+- [Recursive](https://recursive.pm/) - (Stopped) Product Context Graph from features, documentation, customers, code, revenue, and feedback from all your tools. Augment productivity for product managers.  
 - [Ritchy](https://github.com/AxelVincent/ritchy) — Bootstrapped a B2B prospecting SaaS to paying customers across the EU in one year, 2-person team, alone on the tech side. Real-time pipeline (scraping + multi-source data-crossing agents + waterfall enrichment) running under 10s per lead with no concurrency cap.
 
 ## About Me
